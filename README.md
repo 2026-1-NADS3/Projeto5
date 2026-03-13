@@ -12,7 +12,7 @@ Vide tutoriais do PI.
 
 # Nome do Projeto
 
-## GDP
+## BUGBUSTERS
 
 ## Integrantes: <a href="https://www.linkedin.com/in/andrepereiradev/">André Pereira</a>, <a href="https://www.linkedin.com/in/felipe-nunes-de-almeida-a5719634b/">Felipe Nunes</a>, <a href="https://www.linkedin.com/in/gregory-b-602b72307/">Gregory Baruc</a>, <a href="https://www.linkedin.com/in/icaro-souza-dev/">Icaro Souza</a>
 
