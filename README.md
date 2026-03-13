@@ -21,7 +21,7 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="https://i.postimg.cc/y6S21tLm/foto-alma.webp" 
+<img src="https://mayayamamoto.com.br/wp-content/uploads/2018/11/Maya-logo_72_Positivo.png" 
      alt="Instituto ALMA" border="0">
 <a href="https://mayayamamoto.com.br/wp-content/uploads/2018/11/Maya-logo_72_Positivo.png"></a>
 
