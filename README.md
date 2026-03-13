@@ -23,14 +23,14 @@ Vide tutoriais do PI.
 <p align="center">
 <img src="https://i.postimg.cc/y6S21tLm/foto-alma.webp" 
      alt="Instituto ALMA" border="0">
-<a href="https://institutoalma.org/"></a>
+<a href="https://mayayamamoto.com.br/wp-content/uploads/2018/11/Maya-logo_72_Positivo.png"></a>
 
 </p>
 
 
 Sobre o Projeto
-<br><br>
-Estamos criando um site para uma ONG, onde as pessoas vão poder conhecer melhor o trabalho dela, ver campanhas ativas, fazer doações de forma fácil e acompanhar para onde o dinheiro está indo. A ideia é dar mais transparência e confiança, além de incentivar mais pessoas a ajudarem.
+<br>Fisioterapia RPG<br>
+Estamos criando um app para uma para fisioterapia, visando registrar pacientes, acompanhar a evolução do tratamento de Reeducação Postural Global (RPG) e organizar os exercícios recomendados.
 <br><br>
 
 ## 🛠 Estrutura de pastas
