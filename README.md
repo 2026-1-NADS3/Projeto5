@@ -16,8 +16,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="https://www.linkedin.com/in/andrepereiradev/">André Pereira</a>, <a href="https://www.linkedin.com/in/felipe-nunes-de-almeida-a5719634b/">Felipe Nunes</a>, <a href="https://www.linkedin.com/in/gregory-b-602b72307/">Gregory Baruc</a>, <a href="https://www.linkedin.com/in/icaro-souza-dev/">Icaro Souza</a>
 
-## Professores Orientadores: <a href = "https://www.linkedin.com/in/aimarlopes/?locale=pt_BR"> Aimar Martins Lopes </a>, <a href="https: https://www.linkedin.com/in/rodrigo-da-rosa-phd/">Rodrigo da Rosa </a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>
-
+## Professores Orientadores: <a href = "https://www.linkedin.com/in/aimarlopes/?locale=pt_BR"> Aimar Martins Lopes </a>, <a href="https: https://www.linkedin.com/in/rodrigo-da-rosa-phd/">Rodrigo da Rosa </a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Jeferson de Oliveira</a>
 ## Descrição
 
 <p align="center">
