@@ -18,7 +18,7 @@ case "$1" in
             echo "Status: ONLINE"
         else
             echo "Status: OFFLINE. Tentando restart automático..."
-            bash /home/admin/Desktop/Projeto5/documentos/Entrega\cloudNative\ 1/gerenciar.sh start	
+           bash /home/admin/Desktop/Projeto5/documentos/Entrega\ 1/cloudNative/gerenciar.sh start	
         fi
         ;;
     *)
