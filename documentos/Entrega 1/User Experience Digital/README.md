@@ -10,11 +10,11 @@
 ---
 
 ### 👤 PERSONA
-* [Visualizar Persona (PDF)](./PersonaGP5.pdf)
 
 ---
 
 ### 🗺️ MAPA_DE_JORNADA
+* [Visualizar Mapa de Jornada (PDF)](./MAPA_DE_JORNADA_GP5.pdf)
 
 
 ---
