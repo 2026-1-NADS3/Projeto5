@@ -10,7 +10,8 @@
 ---
 
 ### 👤 PERSONA
-
+* [Visualizar Persona (PDF)](./PersonaGP5.pdf)
+  
 ---
 
 ### 🗺️ MAPA_DE_JORNADA
@@ -30,7 +31,8 @@
 * Hierarquia de informação
 * Fluxo básico de navegação
 
-**link_figma:** [Acessar Protótipo no Figma](https://www.figma.com/design/w1nObDJMk7nfuS2Kg8dXUa/EntregaChicoUX?node-id=0-1&t=scYXoszseC9LHPXC-1)
+* [Visualizar Wireframe de Baixa Fidelidade (PDF)](./WireframeGP5.pdf)
+
 
 ---
 
