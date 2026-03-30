@@ -32,6 +32,7 @@
 * Fluxo básico de navegação
 
 * [Visualizar Wireframe de Baixa Fidelidade (PDF)](./WireframeGP5.pdf)
+* [Visualizar no Figma](https://www.figma.com/design/w1nObDJMk7nfuS2Kg8dXUa/EntregaChicoUX?node-id=0-1&t=OeWMhCXn52ngfLBo-1)
 
 
 ---
