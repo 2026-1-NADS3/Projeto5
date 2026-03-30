@@ -32,7 +32,7 @@ Sobre o Projeto
 Estamos criando um app para uma para fisioterapia, visando registrar pacientes, acompanhar a evolução do tratamento de Reeducação Postural Global (RPG) e organizar os exercícios recomendados.
 <br><br>
 
-## 🛠 Estrutura de pastas
+
 
 
 
