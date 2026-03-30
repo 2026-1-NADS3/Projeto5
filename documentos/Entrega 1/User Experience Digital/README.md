@@ -10,7 +10,7 @@
 ---
 
 ### 👤 PERSONA
-* [Visualizar Persona (PDF)](./PersonaGP5.pdf)
+* [Visualizar Persona (PDF)](./personas.pdf)
   
 ---
 
