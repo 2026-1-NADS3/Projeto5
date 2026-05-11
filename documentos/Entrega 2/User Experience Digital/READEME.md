@@ -36,6 +36,7 @@
 * Feedback Visual e Acessibilidade
 
 * [Visualizar Documentação (PDF)](./User_Experience.pdf)
+* [Visualizar Framework H.E.A.R.T](./FrameworkHeart.pdf)
 * [Visualizar no Figma](https://www.figma.com/design/w1nObDJMk7nfuS2Kg8dXUa/EntregaChicoUX?node-id=0-1&t=oJwdZR2ewnJU3CDf-1)
 
 ---
