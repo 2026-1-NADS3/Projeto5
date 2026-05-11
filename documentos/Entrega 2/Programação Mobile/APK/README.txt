@@ -1,0 +1,1 @@
+O app esta linkado com o banco de dados ele só funcionara se estarmos linkados com o Docker e o sistema do backend para a api funcionar 
